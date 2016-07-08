@@ -61,9 +61,9 @@ function start2(){
         for (var i=2;i--;){var _t=document.getElementById("target"+i);
             if(_t){
                 if (i==0){
-                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&page=random_model&g=female','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">Start Trading Selfies</a>";} else //onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\"
+                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&model1_name=-Alicia-&model2_name=roselynax','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">Start Trading Selfies</a>";} else //onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\"
                 if (i==1){
-                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&page=random_model&g=female','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">JOIN FREE NOW</a>";} // onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\" 
+                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&model1_name=-Alicia-&model2_name=roselynax','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">JOIN FREE NOW</a>";} // onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\" 
             }}    
 }
 
