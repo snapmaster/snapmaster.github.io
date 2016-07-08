@@ -7,32 +7,7 @@ var xnow=new Date();var currentTimeZoneOffsetInHours=-xnow.getTimezoneOffset()/6
 var _link1 = null;
 var _link2 = null;
 var _procent = 50;
-// var _list = [
-//     {
-//         pathName: '/singirls',
-//         link1: null, 
-//         link2 : 'http://frtyd.com/go/4s_boACq_uajT/geo_singirls',
-//         procent: 60
-//     },
-//     {
-//         pathName: '/girlfriend',
-//         link1: null, 
-//         link2 : 'http://free-sex-finder.com/423/girlfriend/',
-//         procent: 60
-//     },
-//     {
-//         pathName: '/tinder',
-//         link1: null, 
-//         link2 : 'http://free-sex-finder.com/423/tinder/',
-//         procent: 60
-//     },
-//     {
-//         pathName: '/flirts',
-//         link1: null, 
-//         link2 : 'http://free-sex-finder.com/423/flirts/',
-//         procent: 60
-//     }
-// ]
+ 
 
 
 function ga_script2() {
@@ -85,23 +60,15 @@ console.log(_procent);*/
 function start2(){
     var xnow=new Date();
     var currentTimeZoneOffsetInHours=-xnow.getTimezoneOffset()/60;
-    // if((currentTimeZoneOffsetInHours>=-10 && currentTimeZoneOffsetInHours<=-6)||(currentTimeZoneOffsetInHours>=-6 && currentTimeZoneOffsetInHours<=-1)){
-    //     for (var i=2;i--;){var _t=document.getElementById("target"+i);
-    //         if(_t){
-    //             if (i==0){
-    //                 _t.innerHTML="<a href=\"http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT\"  onclick=\"window.open('http://free-sex-finder.com/423/snap1/','snap7');\" id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">Start Trading Selfies</a>";} else
-    //             if (i==1){
-    //                 _t.innerHTML="<a href=\"http://free-sex-finder.com/423/snap2/\"  onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\" id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">JOIN FREE NOW</a>";}
-    //         }}
-    // } else {
+ 
         for (var i=2;i--;){var _t=document.getElementById("target"+i);
             if(_t){
                 if (i==0){
-                    _t.innerHTML="<a href=\"http://cargocollective.com\" onclick=\"window.open('http://cargocollective.com/matveev_a','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">Start Trading Selfies</a>";} else //onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\"
+                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&page=random_model&g=female','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">Start Trading Selfies</a>";} else //onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\"
                 if (i==1){
-                    _t.innerHTML="<a href=\"http://cargocollective.com\" onclick=\"window.open('http://cargocollective.com/matveev_a','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">JOIN FREE NOW</a>";} // onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\" 
+                    _t.innerHTML="<a href=\"http://bongacams.com/track?c=344742\" onclick=\"window.open('http://tools.bongacams.com/promo.php?type=direct_link&c=344742&page=random_model&g=female','snap3');\"  id=\"download-button\" class=\"btn-large waves-effect waves-light teal lighten-1\">JOIN FREE NOW</a>";} // onclick=\"window.open('http://seethisinaction.com/servlet/view/dynamic/url/zone?zid=7240&pid=0&custom1=2438949_7240_RON_HDL&custom2=2438949&custom3=DEFAULT','snap3');\" 
             }}
-    // }
+  
     
 }
 
